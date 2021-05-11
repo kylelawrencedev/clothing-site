@@ -1,0 +1,12 @@
+body {
+    margin: 1%;
+}
+/* Header */
+header {
+    height: 200px;
+}
+.header-img {
+    width: 125px;
+    height: 125px;
+    padding: 5px;
+}
